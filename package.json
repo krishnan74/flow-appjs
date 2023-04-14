@@ -9,8 +9,10 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@onflow/fcl": "^1.3.2",
     "eslint": "8.38.0",
     "eslint-config-next": "13.3.0",
+    "fcl-js": "github:onflow/flow-js-sdk",
     "next": "13.3.0",
     "react": "18.2.0",
     "react-dom": "18.2.0"
